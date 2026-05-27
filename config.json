@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersetch",
+        "uuid": 1279200,
+        "checksum": "xlsq2h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
